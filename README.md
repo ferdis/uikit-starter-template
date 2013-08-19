@@ -5,7 +5,7 @@ It's the most basic template, and makes use of the off-canvas navigation for a m
 
 Example
 ---
-An example can be found at: nands.github.io/uikit-starter-template/
+An example can be found at: http://nands.github.io/uikit-starter-template/
 
 Why
 ---
